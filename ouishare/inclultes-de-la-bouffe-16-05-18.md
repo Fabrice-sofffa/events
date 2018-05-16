@@ -19,8 +19,9 @@ Alter Conso est un acteur local dynamique à Lyon
 [Alter Conso](http://www.alter-conso.org)
 
 ### Interprétations de Fabrice Liut
-La gestion de la gratuité par le bénévolat est plus une complexité qu’un comportement “commun”. En effet, dans un monde capitaliste, un travail ou du temps mérite une rétribution permettant de gérer un équilibre.
-La dynamique de faire sans attendre d’argent en retour n’est pas un problème : le problème est qu’il est plus adapté dans notre société de donner une rétribution en retour. Les Tokens et la blockchain pourront améliorer la situation.
+
+*La gestion de la gratuité par le bénévolat est plus une complexité qu’un comportement “commun”. En effet, dans un monde capitaliste, un travail ou du temps mérite une rétribution permettant de gérer un équilibre.
+La dynamique de faire sans attendre d’argent en retour n’est pas un problème : le problème est qu’il est plus adapté dans notre société de donner une rétribution en retour. Les Tokens et la blockchain pourront améliorer la situation.*
 
 ### Data food consortium
 [Data Food Consortium](http://datafoodconsortium.org)

@@ -12,6 +12,9 @@ Designer systémique et régénératif - [Site](http://www.liut.me)
 - Vivre dans un monde en commun, sans aucun autre drapeau que la planète.
 - Disposer de toute la connaissance humaine accessible à tous, par tous et pour tous
 
+## Loic Fayet
+Conspirateur positif - Tribe to be inspired - loic.fayet@gmail.com
+
 ## Et toi ?
 
 

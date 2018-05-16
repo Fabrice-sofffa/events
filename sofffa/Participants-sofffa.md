@@ -13,6 +13,7 @@ Designer systémique et régénératif - [Site](http://www.liut.me)
 - Sortir des doublons et résoudre les problèmes communs
 
 ## Et toi ?
+*tu as juste à ajouter tes infos avec la même mise en forme que au dessus. Je t'expliquerais lors de l'atelier la puissance de GitHub :)
 
 
 
